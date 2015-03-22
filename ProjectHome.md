@@ -1,0 +1,1 @@
+aplicacion android que consume la publicidad automaticamente
